@@ -1,0 +1,21 @@
+KEY PERFORMANCE INDICATORS (KPIs):
+
+1. Total Number of Movies
+2. Total Number of Directors
+3. Average Movie Rating
+4. Highest Movie Rating
+5. Average Movie Runtime
+6. Longest Movie Runtime
+7. Movies with Runtime ≥ 180 Minutes
+8. Total Votes
+9. Average Votes per Movie
+10. Year with Highest Average Votes
+11. Total Revenue
+12. Average Movie Revenue
+13. Highest-Grossing Movie
+14. Year with Highest Average Revenue
+15. Highest-Rated Director
+16. Year with Most Movie Releases
+17. Top Movies by Revenue
+18. Number of Missing Values
+19. Number of Duplicate Records
